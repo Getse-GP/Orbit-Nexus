@@ -1,0 +1,27 @@
+Nombre: 123 | Texto: holaaa
+Nombre: 123 | Imagen: uploads/katy.jpeg
+Nombre: 466 | Texto: Ayudaaaa
+Nombre: 466 | Imagen: uploads/Screenshot 2024-11-12 at 14-12-12 pink-mathematics-cute-education-rubber-blank-paper-powerpoint-background_985c67841c__960_540.jpg (JPEG Imagen 960 × 540 píxeles).png
+Nombre: 466 | Texto: Holaaaa
+Nombre: 466 | Imagen: uploads/error.jpg
+Nombre: 789 | Texto: asdfcgvb
+Nombre: 789 | Imagen: uploads/espacioFondo.png
+Nombre: 345 | Texto: Holaaa pasen lo de mau
+Nombre: 345 | Imagen: uploads/asdf.jpg
+Nombre: 111 | Texto: Holaaaa
+Nombre: 111 | Imagen: uploads/katy.jpeg
+Nombre: 111 | Texto: Holaaa 
+Nombre: 466 | Texto: Holaa prueba 3
+Nombre: 466 | Imagen: uploads/katy.jpeg
+Nombre: 333 | Texto: Ve esto
+Nombre: 333 | Texto: si
+Nombre: 333 | Texto: si
+Nombre: 333 | Texto: Mira esto
+Nombre: 333 | Imagen: uploads/SkyConcurso.png
+Nombre: 789 | Texto: Porfa funciona
+Nombre: 789 | Texto: ahhhh
+Nombre: 789 | Texto: miedo terror ozuna | Imagen: uploads/Myla pose.png
+Nombre: 111 | Texto: holaaa
+Nombre: 123 | Texto: algoo
+Nombre: 123 | Texto: SIII | Imagen: uploads/jupiterv.png
+Nombre: 123 | Texto: porfa? | Imagen: uploads/saturnov.png

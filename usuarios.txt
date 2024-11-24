@@ -1,0 +1,6 @@
+Nombre: getse | Edad: 23 | Sexo: Femenino | Clave: 123
+Nombre: karla | Edad: 34 | Sexo: Femenino | Clave: 466
+Nombre: diego | Edad: 18 | Sexo: Masculino | Clave: 789
+Nombre: citlla | Edad: 21 | Sexo: Femenino | Clave: 345
+Nombre: bruno | Edad: 34 | Sexo: Masculino | Clave: 111
+Nombre: Alex | Edad: 56 | Sexo: Masculino | Clave: 333
